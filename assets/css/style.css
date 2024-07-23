@@ -1150,7 +1150,16 @@ section .container {
 
 
 @media (max-width: 992px){
-  #header.header-top h1{
+  /* #header.header-top h1{
     display: none;
+  } */
+  #header.header-top img{
+    display: none;
+  }
+  #header h2{
+    text-align: center;
+  }
+  #logoimg{
+    margin: auto;
   }
 }
