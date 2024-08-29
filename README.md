@@ -38,5 +38,3 @@ The Atmosflix website, accessible at ads.atmosflix.in, is a sleek and modern pla
 <img width=100% src="https://raw.githubusercontent.com/Sandip-Basak/Atmosflix/main/readme_images/Screenshot%202024-08-29%20112618.jpg" alt="App Images">
 </div>
 <br>
-
-##
